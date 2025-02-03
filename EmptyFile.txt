@@ -1,0 +1,2 @@
+Hello Guys,
+	This is the content that is added into this file by using FileOutputStream imported from the java.io package.
